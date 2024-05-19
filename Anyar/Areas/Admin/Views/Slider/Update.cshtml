@@ -1,0 +1,20 @@
+﻿@model UpdateSliderVM
+
+<div class="card">
+    <div class="card-body">
+        <form method="post">
+            <div class="mb-3">
+                <label asp-for="Title" class="form-label"></label>
+                <input asp-for="Title" class="form-control" name="Title">
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="SubTitle" class="form-label"></label>
+                <input asp-for="SubTitle" class="form-control" name="SubTitle">
+                <span asp-validation-for="SubTitle" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>

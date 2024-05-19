@@ -1,0 +1,60 @@
+﻿@model UpdateEmployeeVM
+
+<div class="card">
+    <div class="card-body">
+        <form method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Surname" class="form-label"></label>
+                <input asp-for="Surname" class="form-control">
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <input asp-for="Description" class="form-control">
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="JobId"></label>
+                <select asp-for="JobId" class="mb-3 form-control">
+                    @foreach (var item in ViewBag.Jobs)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="mb-3">
+                <label asp-for="ImageFile" class="form-label"></label>
+                <input asp-for="ImageFile" class="form-control">
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="TwitterName" class="form-label"></label>
+                <input asp-for="TwitterName" class="form-control">
+                <span asp-validation-for="TwitterName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="FacebookName" class="form-label"></label>
+                <input asp-for="FacebookName" class="form-control">
+                <span asp-validation-for="FacebookName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="InstagramName" class="form-label"></label>
+                <input asp-for="InstagramName" class="form-control">
+                <span asp-validation-for="InstagramName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="LinkedInName" class="form-label"></label>
+                <input asp-for="LinkedInName" class="form-control">
+                <span asp-validation-for="LinkedInName" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+

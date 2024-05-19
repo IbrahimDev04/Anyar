@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\anyar\\anyar\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|solutionrelative:anyar\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\anyar\\anyar\\dataaccesslayer\\anyarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|solutionrelative:anyar\\dataaccesslayer\\anyarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\anyar\\anyar\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|solutionrelative:anyar\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\anyar\\anyar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|solutionrelative:anyar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\anyar\\anyar\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBA918DA-20CC-4B19-B7AE-1248976A8E30}|Anyar\\Anyar.csproj|solutionrelative:anyar\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnyarContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\DataAccessLayer\\AnyarContext.cs",
+              "RelativeDocumentMoniker": "Anyar\\DataAccessLayer\\AnyarContext.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\DataAccessLayer\\AnyarContext.cs",
+              "RelativeToolTip": "Anyar\\DataAccessLayer\\AnyarContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:11:35.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Anyar\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Anyar\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:09:31.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\Program.cs",
+              "RelativeDocumentMoniker": "Anyar\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\Program.cs",
+              "RelativeToolTip": "Anyar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:04:17.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Anyar\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Anyar\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAewCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:53:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Anyar\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\Anyar\\Anyar\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Anyar\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwEQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T15:47:54.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

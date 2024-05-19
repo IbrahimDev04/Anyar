@@ -1,0 +1,38 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Modernize Free</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="shortcut icon" type="image/png" href="~/admin/images/logos/favicon.png" />
+    <link rel="stylesheet" href="~/admin/css/styles.min.css" />
+</head>
+
+<body>
+    <!--  Body Wrapper -->
+    <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+         data-sidebar-position="fixed" data-header-position="fixed">
+         @await Component.InvokeAsync("HeaderAdmin");
+        <!--  Main wrapper -->
+        <div class="body-wrapper">
+            @await Component.InvokeAsync("NavHeader");
+            <div class="container-fluid">
+                <div class="card">
+                    <div class="card-body">
+                        @RenderBody()
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="~/admin/libs/jquery/dist/jquery.min.js"></script>
+    <script src="~/admin/libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/admin/js/sidebarmenu.js"></script>
+    <script src="~/admin/js/app.min.js"></script>
+    <script src="~/admin/libs/simplebar/dist/simplebar.js"></script>
+</body>
+
+</html>
